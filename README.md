@@ -1,1 +1,3 @@
-# Calculator-assignment
+-Create a simple addition program using JavaScript with a user interface using HTML and CSS, the inputs and output should be viewed on the user interface.
+-The program should accept a first input and a second input, when the calculate button is clicked, it should display a result of the sum of the first and second inputted numbers after the calculate button.
+-Hints: The calculate button should have an event listener that runs the addition function on click, the result/output should be in a paragraph after the calculate button and lastly review our calculator project to have an idea on how to create an additional function to return the sum.
